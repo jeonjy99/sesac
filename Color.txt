@@ -3,4 +3,7 @@
 3. Yellow
 4. Magenta
 5. Beige
+2. Magenta
+3. Beige
+4. Orange
 
